@@ -11,3 +11,6 @@ The final html output is RCaseStudy1.html, RcaseStudy1.knit.md, RcaseStudy1.utf8
 Figures for inference are in the figures folder 
 
 The md file generated using rmarkdown::render("RcaseStudy1.R", "html_document",clean=FALSE) is here as: RcaseStudy1.knit.md and RcaseStudy1.utf8.md
+
+
+The case study write up is : Case Study_GDP_Skommanapalli.docx
